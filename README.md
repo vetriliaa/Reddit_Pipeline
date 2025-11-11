@@ -23,3 +23,5 @@ For example you might run:
 2. Transform Data (normalize_post & TextBlob): Normalizes data into a structured format, uses TextBlog to calculate sentiment scores for each title
 3. Load Data (DatabaseManager & SQLite): Stores validated data in SQLite database (data aggregation)
 4. User Report (ReportGenerator): Generates HTML report with simple summary dashboard and ranking of top posts
+
+I also included a fleshed out version of the original technical. 
